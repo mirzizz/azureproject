@@ -7,7 +7,7 @@
     "tenant_id": "XXXXXXXX",
     "subscription_id": "XXXXXXXX",
 
-    "managed_image_resource_group_name": "myResourceGroup",
+    "managed_image_resource_group_name": "packerazureimage",
     "managed_image_name": "myPackerImage",
 
     "os_type": "Linux",

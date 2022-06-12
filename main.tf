@@ -10,7 +10,7 @@ provider "azurerm" {
 
 # Locate the existing resource group
 data "azurerm_resource_group" "main" {
-  name = "myResourceGroup"
+  name = "packerazureimage"
 }
 
 output "id" {
